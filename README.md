@@ -15,13 +15,13 @@ GroupManager.java
 InputGraph.java
 KrushkalMST.java
 Point.java
-PointDistributor.java // Main Class
-stdlib                 // Visualisation Library
+PointDistributor.java   Main Class
+stdlib                  Visualisation Library
 
 PROGRAM 
 
-BGTProblem.bat       // Executable with windows 
-BGTProblem.jar       // Otherwise 
+BGTProblem.bat        Executable with windows 
+BGTProblem.jar        Otherwise 
 
 ADDITIONAL APPENDICES 
 
